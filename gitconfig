@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ayse.arslanargin.dereli@ingka.ikea.com
+	name = Ayse Arslanargin Dereli
